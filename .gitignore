@@ -1,0 +1,23 @@
+# Build / object files
+*.o
+*.obj
+*.exe
+*.out
+
+# Backup and temporary files
+*~
+*.swp
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled binaries
+bin/
+build/
